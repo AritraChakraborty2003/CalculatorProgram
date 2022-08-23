@@ -15,10 +15,10 @@ public class Calc{
 				System.out.println("Your subtraction is " + (a-b));
 				break;
 			case 3:
-				System.out.println("Your additon is " + (a*b));
+				System.out.println("Your Multiplication is " + (a*b));
 				break;
 			case 4:
-				System.out.println("Your additon is " + (a-b));
+				System.out.println("Your division  is " + (a/b));
 				break;		
 	
 		}
